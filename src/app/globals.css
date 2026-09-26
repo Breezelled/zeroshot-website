@@ -62,6 +62,7 @@ h2 { font-size: clamp(36px, 4.2vw, 58px); letter-spacing: -.058em; font-weight: 
 .process p { font-size: 17px; line-height: 1.8; color: var(--muted); max-width: 310px; }
 .process-end { width: 12px; height: 12px; border: 3px solid var(--accent); }
 .team-section { padding-block: 110px 105px; }
+.team-section .section-intro > p { max-width: 900px; }
 .team-grid { display: grid; grid-template-columns: repeat(2, 1fr); column-gap: 65px; row-gap: 36px; }
 .person { border-top: 1px solid var(--line); padding-top: 23px; }
 .person h3 { font-size: 27px; font-weight: 450; letter-spacing: -.045em; min-height: 44px; }

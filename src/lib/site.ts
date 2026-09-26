@@ -10,7 +10,7 @@ export const site = {
 export const capabilities = [
   {
     title: 'AI, Machine Learning & Agents',
-    description: 'Build intelligent systems, from predictive models and generative AI to agents and multimodal applications.',
+    description: 'Build intelligent systems tailored to your data and workflows, from model training and LLM fine-tuning to custom AI agents and multimodal applications.',
   },
   {
     title: 'Data & Decision Systems',

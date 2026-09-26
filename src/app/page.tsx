@@ -7,7 +7,7 @@ const team = [
   { name: 'Breeze Chen', url: 'https://baiyuchen.com/' },
   { name: 'Wilson Wongso', url: 'https://wilsonwongso.dev/' },
   { name: 'Jimmy Ji' },
-  { name: 'Frederick Kalle' },
+  { name: 'Frederik Kalle' },
 ];
 export default function Home() {
   return <><a className="skip-link" href="#main">Skip to content</a><Header/><main id="main">

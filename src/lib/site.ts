@@ -14,14 +14,14 @@ export const capabilities = [
   },
   {
     title: 'Data & Decision Systems',
-    description: 'Turn complex data into reliable pipelines, insights, forecasts, and better decisions.',
+    description: 'Build reliable data pipelines and analyse complex data to uncover insights, develop forecasts and support better decisions.',
   },
   {
     title: 'Software & Product Engineering',
-    description: 'Design and build robust software, APIs, platforms, and AI-enabled products from prototype to production.',
+    description: 'Design and build software that fits your business, from custom applications and APIs to platforms and system integrations.',
   },
   {
     title: 'Systems & Infrastructure Engineering',
-    description: 'Build the cloud, infrastructure, automation, and production systems needed to operate reliably at scale.',
+    description: 'Build and improve the systems behind your operations, from cloud architecture and deployment automation to performance, scalability and reliability.',
   },
 ];
